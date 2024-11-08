@@ -3,7 +3,7 @@ const ChatBar = () => {
 		<>
 			<div className='navbar bg-base-100'>
 				<div className='flex-1'>
-					<a className='btn btn-ghost text-sm text-orange-600 shadow-md '>
+					<a className='btn btn-ghost text-sm text-orange-600 shadow-md mr-10'>
 						Sync-Talk
 					</a>
 				</div>

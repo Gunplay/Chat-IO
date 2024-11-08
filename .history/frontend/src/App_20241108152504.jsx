@@ -2,7 +2,7 @@ import { useState } from 'react';
 import './App.css';
 import { SignUp } from './components/pages/signup/SignUp';
 import ChatBar from './components/ChatBar';
-import { Home } from './components/pages/home/home';
+
 function App() {
 	const [login, setLogin] = useState(false);
 
